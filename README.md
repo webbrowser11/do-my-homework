@@ -1,2 +1,2 @@
 # do-my-homework
-DO MY HOMEWORK! a homewrok doer :)
+DO MY HOMEWORK! a homework doer :)
