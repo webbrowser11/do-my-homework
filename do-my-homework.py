@@ -1,3 +1,7 @@
+# imports
+import time
+import os
+
 # Values and lists
 problems = []
 TimesloopedQuestions = 0
@@ -76,3 +80,5 @@ print()
 print()
 print()
 print("Thanks for using Do My Homework!")
+time.sleep(6)
+os.exit
