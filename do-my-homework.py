@@ -1,6 +1,6 @@
 # imports
 import time
-import os
+import sys
 
 # Values and lists
 problems = []
@@ -81,4 +81,4 @@ print()
 print()
 print("Thanks for using Do My Homework!")
 time.sleep(6)
-os.exit
+sys.exit()
